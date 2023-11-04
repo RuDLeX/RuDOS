@@ -1,8 +1,12 @@
 # RuDOS
 This is a new operating system on python with open source!
+
 Before starting, you need to download the os module and python:
+
 https://www.python.org/
+
 https://pypi.org/project/os-sys/
+
 Enjoy;3
 
 NEW VERSION 10.2 !!!
