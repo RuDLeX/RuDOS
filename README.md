@@ -1,8 +1,6 @@
 # RuDOS
 This is a new operating system on python with open source!
-
 Before starting, you need to download the python:
-
 https://www.python.org/
 
 
