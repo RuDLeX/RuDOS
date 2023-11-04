@@ -1,5 +1,9 @@
 # RuDOS
-This is a new operating system in python, before starting, you need to download the os module: https://pypi.org/project/os-sys/ For whom is it useful? For very old people who are used to console os. And for the geeks.
+This is a new operating system on python with open source!
+Before starting, you need to download the os module and python:
+https://www.python.org/
+https://pypi.org/project/os-sys/
+Enjoy;3
 
 NEW VERSION 10.2 !!!
 1. The new version adds functions for creating folders, opening information about what is in them, and a function for deleting folders.
